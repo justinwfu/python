@@ -65,6 +65,7 @@ class LinkedList:
             self.current.next = self.first
             self.first = self.current
 
+
 ll = LinkedList()
 # print('linkedlist representation')
 # print(ll)
